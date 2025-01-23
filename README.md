@@ -3,15 +3,13 @@
 
 **`Computer Engineering Student`**
 
-I am a sophomore Computer Engineering student with a passion for technology, health, and life sciences. Motivated by curiosity and driven by a blend of accountability, efficiency, and a friendly demeanor, I am eager to collaborate with a team and organize projects. I bring commitment and open-mindedness to the table, striving to create meaningful and impactful work.
+I am a sophomore Computer Engineering student with a passion for technology, health, and life sciences. Motivated by curiosity and driven by a blend of accountability, efficiency, and a friendly demeanor, I am eager to collaborate with a team and organize projects. I bring commitment and open-mindedness to the table, striving to create meaningful and impactful work.<br/>
 
 Data Science brings raw data to life. It uncovers hidden patterns and tells stories that would otherwise remain unseen. I’m especially inspired by how it can drive solutions in areas I’m passionate about.
 
 ### Life
-📍Cainta, Philippines | 🇵🇭
-
+📍Cainta, Philippines | 🇵🇭<br/>
 📖Technological Institute of the Philippines–Quezon City
-
 #### Reading and writing | Happiness is a virtue.
 
 
